@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Guard for Automation
 gem 'guard-livereload'
 # Use Devise for users sign in sign out
-gem 'devise', '~> 3.3.0'
+gem 'devise', :git => 'https://github.com/plataformatec/devise.git'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
