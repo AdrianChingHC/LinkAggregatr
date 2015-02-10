@@ -28,6 +28,8 @@ gem 'guard-livereload'
 gem 'devise', :git => 'https://github.com/plataformatec/devise.git'
 #Use bootstrap for styling
 gem 'bootstrap-sass', '~> 3.3.3'
+#Voting system
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
